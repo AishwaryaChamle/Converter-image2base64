@@ -1,0 +1,5 @@
+{
+  "name": "Base64 Studio - AI OCR & Image Converter",
+  "description": "Professional utility for Base64 conversion with AI-powered OCR. Batch process images to Base64, extract document details with Gemini AI, and decode Base64 back to images and PDFs.",
+  "requestFramePermissions": []
+}
